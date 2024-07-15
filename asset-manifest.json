@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/udula/static/css/main.e49910b9.css",
+    "main.js": "/udula/static/js/main.79bfa5bd.js",
+    "static/js/453.12ef11f3.chunk.js": "/udula/static/js/453.12ef11f3.chunk.js",
+    "static/media/pfp.png": "/udula/static/media/pfp.ee434c96c74a0f889ceb.png",
+    "index.html": "/udula/index.html",
+    "main.e49910b9.css.map": "/udula/static/css/main.e49910b9.css.map",
+    "main.79bfa5bd.js.map": "/udula/static/js/main.79bfa5bd.js.map",
+    "453.12ef11f3.chunk.js.map": "/udula/static/js/453.12ef11f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49910b9.css",
+    "static/js/main.79bfa5bd.js"
+  ]
+}
