@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/udula/static/css/main.e49910b9.css",
-    "main.js": "/udula/static/js/main.79bfa5bd.js",
+    "main.css": "/udula/static/css/main.3f6c1741.css",
+    "main.js": "/udula/static/js/main.59af8b63.js",
     "static/js/453.12ef11f3.chunk.js": "/udula/static/js/453.12ef11f3.chunk.js",
+    "static/media/gallery5.jpg": "/udula/static/media/gallery5.c46b1aa59a8dd80e6ff2.jpg",
+    "static/media/gallery9.jpg": "/udula/static/media/gallery9.32f31e3c4804940d192b.jpg",
+    "static/media/gallery2.jpg": "/udula/static/media/gallery2.85d7a7fc0d7444346842.jpg",
+    "static/media/gallery10.jpg": "/udula/static/media/gallery10.4909d7c690a91ee6d86c.jpg",
+    "static/media/gallery12.jpg": "/udula/static/media/gallery12.ade0d90e6f763ab0576f.jpg",
     "static/media/pfp.png": "/udula/static/media/pfp.ee434c96c74a0f889ceb.png",
+    "static/media/gallery11.jpg": "/udula/static/media/gallery11.aea9d4f75dbcd000abbd.jpg",
+    "static/media/gallery8.jpg": "/udula/static/media/gallery8.357ec4ceabe1654d08dd.jpg",
+    "static/media/gallery1.jpg": "/udula/static/media/gallery1.c22d31af08939bf48726.jpg",
+    "static/media/gallery4.jpg": "/udula/static/media/gallery4.61b00782e99719797ff4.jpg",
+    "static/media/gallery3.jpg": "/udula/static/media/gallery3.3fc6ab7228d4361276d5.jpg",
+    "static/media/gallery6.jpg": "/udula/static/media/gallery6.10d52f7cb89d5ca6ced9.jpg",
+    "static/media/react.png": "/udula/static/media/react.8b8260628f7d7a969ba1.png",
+    "static/media/gallery7.jpg": "/udula/static/media/gallery7.9ddeb0edf9474c0d7abc.jpg",
+    "static/media/java.png": "/udula/static/media/java.87b78eaa5e6f89b67b06.png",
+    "static/media/ardunio.png": "/udula/static/media/ardunio.f01216b0de9bffb9195c.png",
+    "static/media/SSA.jpg": "/udula/static/media/SSA.61ca0ce2a8ee6310ea5a.jpg",
+    "static/media/devolotics.jpg": "/udula/static/media/devolotics.598a1e3f3a1f5e40b8cd.jpg",
+    "static/media/website.jpg": "/udula/static/media/website.52646e76822463535426.jpg",
+    "static/media/RCPlane.jpg": "/udula/static/media/RCPlane.64497193b9990dfc5b77.jpg",
     "index.html": "/udula/index.html",
-    "main.e49910b9.css.map": "/udula/static/css/main.e49910b9.css.map",
-    "main.79bfa5bd.js.map": "/udula/static/js/main.79bfa5bd.js.map",
+    "main.3f6c1741.css.map": "/udula/static/css/main.3f6c1741.css.map",
+    "main.59af8b63.js.map": "/udula/static/js/main.59af8b63.js.map",
     "453.12ef11f3.chunk.js.map": "/udula/static/js/453.12ef11f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e49910b9.css",
-    "static/js/main.79bfa5bd.js"
+    "static/css/main.3f6c1741.css",
+    "static/js/main.59af8b63.js"
   ]
 }
