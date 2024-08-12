@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/udula/static/css/main.3f6c1741.css",
-    "main.js": "/udula/static/js/main.59af8b63.js",
+    "main.css": "/udula/static/css/main.fde72d85.css",
+    "main.js": "/udula/static/js/main.299fc2bb.js",
     "static/js/453.12ef11f3.chunk.js": "/udula/static/js/453.12ef11f3.chunk.js",
     "static/media/gallery5.jpg": "/udula/static/media/gallery5.c46b1aa59a8dd80e6ff2.jpg",
     "static/media/gallery9.jpg": "/udula/static/media/gallery9.32f31e3c4804940d192b.jpg",
@@ -19,17 +19,18 @@
     "static/media/gallery7.jpg": "/udula/static/media/gallery7.9ddeb0edf9474c0d7abc.jpg",
     "static/media/java.png": "/udula/static/media/java.87b78eaa5e6f89b67b06.png",
     "static/media/ardunio.png": "/udula/static/media/ardunio.f01216b0de9bffb9195c.png",
+    "static/media/ssa.png": "/udula/static/media/ssa.b3f89e6c359adaee699f.png",
     "static/media/SSA.jpg": "/udula/static/media/SSA.61ca0ce2a8ee6310ea5a.jpg",
     "static/media/devolotics.jpg": "/udula/static/media/devolotics.598a1e3f3a1f5e40b8cd.jpg",
     "static/media/website.jpg": "/udula/static/media/website.52646e76822463535426.jpg",
     "static/media/RCPlane.jpg": "/udula/static/media/RCPlane.64497193b9990dfc5b77.jpg",
     "index.html": "/udula/index.html",
-    "main.3f6c1741.css.map": "/udula/static/css/main.3f6c1741.css.map",
-    "main.59af8b63.js.map": "/udula/static/js/main.59af8b63.js.map",
+    "main.fde72d85.css.map": "/udula/static/css/main.fde72d85.css.map",
+    "main.299fc2bb.js.map": "/udula/static/js/main.299fc2bb.js.map",
     "453.12ef11f3.chunk.js.map": "/udula/static/js/453.12ef11f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6c1741.css",
-    "static/js/main.59af8b63.js"
+    "static/css/main.fde72d85.css",
+    "static/js/main.299fc2bb.js"
   ]
 }
